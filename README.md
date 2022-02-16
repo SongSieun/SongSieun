@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - https://simpleicons.org/ simple icons url
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SieunSong&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=150&section=header&text=SieunSong&fontSize=70&animation=twinkling)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
