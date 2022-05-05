@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/%EC%8B%9C%EC%9D%80-%EC%86%A1-a6274818b/" target="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongSieun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongSieun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
