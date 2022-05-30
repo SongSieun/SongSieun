@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=SieunSong&fontSize=70&animation=twinkling&fontColor=FFFFFF)
 
+![readme-stats](https://github-readme-stats.vercel.app/api?username=SongSieun&count_private=true&show_icons=true)
+
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
