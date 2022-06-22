@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongSieun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Sieun_Song&fontSize=70&animation=twinkling&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=sieun_song&fontSize=70&animation=twinkling&fontColor=FFFFFF)
 
 ### Hi there👋 
 🔭 I'm an Android Developer in Seoul, South Korea 🇰🇷
