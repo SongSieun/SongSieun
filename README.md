@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hi there👋 
 🔭 I'm an Android Developer in Seoul, South Korea 🇰🇷
 
-![readme-stats](https://github-readme-stats.vercel.app/api?username=SongSieun&count_private=true&show_icons=true)
+// ![readme-stats](https://github-readme-stats.vercel.app/api?username=SongSieun&count_private=true&show_icons=true)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
